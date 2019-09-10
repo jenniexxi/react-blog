@@ -11,15 +11,7 @@
 
 ### 2. Index
     - Profile
-        - ProfileImg
-        - UserName
-        - UserDescription
-        - SocialLink
-            - SocialLinkItem
     - TagContainer
         - Tag
     - PostList
         - Post
-            - PostTitle
-            - PostSummary
-

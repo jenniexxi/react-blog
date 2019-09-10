@@ -8,7 +8,6 @@ import Footer from './Footer';
 const Container = styled.div`
     width: 680px;
     margin: 0 auto;
-    border: 1px solid #d8d8d8;
 `
 
 export default ({children}) => {
